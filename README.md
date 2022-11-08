@@ -1,1 +1,1 @@
-<h1 style=text-align:center;>sup👋</p>
+<h1 style=text-align:center>sup👋</p>
