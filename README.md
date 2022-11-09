@@ -1,4 +1,3 @@
-<h1 align="centre">sup, i am a bored person who tries to code 👋</h1>
 <p size="140%"; align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h1 align="center">sup 👋, im unxw</h1>
 <h3 align="center">a bored person</h3>
@@ -9,11 +8,11 @@
 
 - 🔭 I’m currently working on [my website](https://github.com/unxw/unxw.github.io)
 
-- 💬 Ask me about **my website**
+- 💬 Ask me about **my website** whenever
 
-- 📫 How to reach me **vanilah@vanilah.tk**
+- 📫 How to reach me: **vanilah@vanilah.tk**
 
-- ⚡ Fun fact **cats are my favorite animal (if you couldnt tell)**
+- ⚡ Fun fact, **cats are my favorite animal (if you couldnt tell)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
