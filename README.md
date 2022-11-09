@@ -1,4 +1,4 @@
-<p size="140%"; align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
+<p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h1 align="center">sup 👋, im unxw</h1>
 <h3 align="center">a bored person</h3>
 
