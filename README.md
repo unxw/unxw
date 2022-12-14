@@ -1,5 +1,4 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
-<h1 align="center">sup 👋, im unxw</h1>
 <h3 align="center">a bored person</h3>
 
 <p align="left"> 
