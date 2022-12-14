@@ -11,14 +11,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1&theme=juicyfresh" alt="unxw" /></a> </p>
 
-- 🔭 I’m currently working on [my website](https://github.com/unxw/unxw.github.io)
-
-- 💬 Ask me about **my website** whenever
-
-- 📫 How to reach me: **vanilah@vanilah.tk**
-
-- ⚡ Fun fact, **cats are my favorite animal (if you couldnt tell)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vanilahz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanilahz" height="30" width="40" /></a>
