@@ -9,7 +9,7 @@
   <img alt="" src="https://img.shields.io/badge/OS-%20Ubuntu Linux-red/?logo=ubuntu&color=ff4300">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1&theme=juicyfresh" alt="unxw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1&theme=juicyfresh" alt="unxw" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
