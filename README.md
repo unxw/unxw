@@ -1,6 +1,6 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h3 align="center">a bored person</h3>
-***
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=unxw&label=Profile%20views&color=0e75b6&style=flat" alt="unxw" /> 
@@ -9,7 +9,7 @@
   <img alt="" src="https://img.shields.io/badge/OS-%20Ubuntu Linux-red/?logo=ubuntu&color=ff4300">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1" alt="unxw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1&theme=juicyfresh" alt="unxw" /></a> </p>
 
 - 🔭 I’m currently working on [my website](https://github.com/unxw/unxw.github.io)
 
