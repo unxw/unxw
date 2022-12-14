@@ -1,10 +1,6 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h3 align="center">a bored person</h3>
 <h2 align="center"><a href="https://unxw.github.io">My Website :)</a></h2>
-<div>
-  <iframe src="https://unxw.github.io"></iframe>
-</div>
-
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=unxw&label=Profile%20views&color=0e75b6&style=flat" alt="unxw" /> 
