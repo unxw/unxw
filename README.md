@@ -2,7 +2,7 @@
 <h3 align="center">a bored person</h3>
 
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=unxw&label=Profile%20views&color=0e75b6&style=flat" alt="unxw" /> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/unxw?color=orange">
   <img alt="" src="https://img.shields.io/badge/OS-%20Windows-red/?logo=windows&color=1793d1">
