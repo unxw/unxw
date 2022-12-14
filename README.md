@@ -1,5 +1,6 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
-<h3 align="center">a bored person</h3>
+-<h3 align="center">a bored person</h3>
+<h2><a href="https://unxw.github.io">My Website :)</a></h2>
 
 
 <p align="center"> 
