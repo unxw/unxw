@@ -1,6 +1,6 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h3 align="center">a bored person</h3>
-<br>
+___  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=unxw&label=Profile%20views&color=0e75b6&style=flat" alt="unxw" /> 
