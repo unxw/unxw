@@ -1,6 +1,6 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h3 align="center">a bored person</h3>
-<strong><p align="center" style="margin-bottom: 20px;">vanilah#9625</p></strong>
+<strong><p align="center" style="margin-bottom: -20px;">vanilah#9625</p></strong>
 <h2 align="center"><a href="https://unxw.github.io">My Website :)</a></h2>
 
 <p align="center"> 
