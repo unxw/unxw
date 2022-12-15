@@ -1,6 +1,8 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h3 align="center">a bored person</h3>
-<span align="center"><p>vanilah#9625</p><img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-2048x2048.png" height="20px" width="20px" vertical-align="middle" /><span>
+<div>
+<span align="center"><p>vanilah#9625</p><img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-2048x2048.png" height="20px" width="20px" />
+  </div>
 <h2 align="center"><a href="https://unxw.github.io">My Website :)</a></h2>
 
 <p align="center"> 
