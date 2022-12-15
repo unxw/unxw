@@ -1,5 +1,6 @@
 <p align="center"><img src="img/unxw2.png" alt="My crappy free logo! :)"></p>
 <h3 align="center">a bored person</h3>
+<p align="center">Discord: vanilah#9625</p>
 <h2 align="center"><a href="https://unxw.github.io">My Website :)</a></h2>
 
 <p align="center"> 
