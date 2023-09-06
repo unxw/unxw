@@ -2,8 +2,8 @@
 <h3 align="center">a bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
 <strong><p align="center">vanilah@vanilah.tk</p></strong>
-<h2 align="center"><a href="https://unxw.cf">My Website :p</a></h2>
-<h2 align="center"><a href="https://unxw.github.io">My Website (Unblocked Ver.)</a></h2>
+<h2 align="center"><a href="https://unxw.github.io">My Website (main link)</a></h2>
+<h2 align="center"><a href="https://mathbusiness.tk">My Website (link 2)</a></h2>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=unxw&label=Profile%20views&color=0e75b6&style=flat" alt="unxw" /> 
