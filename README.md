@@ -1,6 +1,6 @@
 <h1 align="center">Nixora!!</h1>
-<span align="center">was unxw</span>
-<img align="center" src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="400" height="400" />
+<span align="center">i was unxw</span>
+<a align="center" href="https://unxw.cf"><img align="center" src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="400" height="400" /></a>
 <h3 align="center">a bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
 <strong><p align="center">vanilah@vanilah.tk</p></strong>
