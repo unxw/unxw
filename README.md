@@ -1,5 +1,7 @@
+<span>
 <h1 align="center">Nixora!!</h1>
-<p align="center">i was unxw</p>
+  <p align="center">i was unxw</p>
+</span>
 <p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="150" height="150" /></p>
 <h3 align="center">a very bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
