@@ -12,7 +12,7 @@
   <img alt="" src="https://img.shields.io/badge/OS-%20Ubuntu Linux-red/?logo=ubuntu&color=ff4300">
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1&theme=dark_lover" alt="unxw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxw&column=-1&theme=discord" alt="unxw" /></a> </p>
 
 <h3 align="center">Connect with me:</h3><p align="center">
 <a href="https://instagram.com/vanilahz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanilahz" height="30" width="40" /></a>
