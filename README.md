@@ -1,6 +1,6 @@
 <h1 align="center">Nixora!!</h1>
 <span align="center">was unxw</span>
-![](https://github.com/unxw/unxw/blob/main/img/cat.gif)
+<img src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="200" height="400" />
 <h3 align="center">a bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
 <strong><p align="center">vanilah@vanilah.tk</p></strong>
