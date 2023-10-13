@@ -5,7 +5,7 @@
 <strong><p align="center">@nixora on discord</p></strong>
 <strong><p align="center">vanilah@vanilah.tk</p></strong>
 <h2 align="center"><a href="https://mathbusiness.tk">My Website (main link)</a></h2>
-<p>you can find the repo for it <a src="https://github.com/unxw/unxw.github.io">here</a></p>
+<p>you can find the repo for it somewhere in my repos (im lazy sry)</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=unxw&label=Profile%20views&color=0e75b6&style=flat" alt="unxw" /> 
