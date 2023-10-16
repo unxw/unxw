@@ -4,7 +4,7 @@
 <h3 align="center">a very bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
 <strong><p align="center">vanilah@vanilah.tk</p></strong>
-<h2 align="center"><a href="https://mathbusiness.tk">My Website (main link)</a></h2>
+<h2 align="center"><a href="https://unxw.github.io">My Website!!</a></h2>
 <p>you can find the repo for it somewhere in my repos (im lazy sry)</p>
 
 <p align="center"> 
