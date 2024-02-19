@@ -1,9 +1,8 @@
 <h1 align="center">Nixora!!</h1>
-<p align="center">i was unxw but i realized, how do u even pronounce it 😭</p>
 <p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="150" height="150" /></p>
 <h3 align="center">a very bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
-<strong><p align="center">vanilah@vanilah.tk</p></strong>
+<strong><p align="center">nixora@nixora.space</p></strong>
 <h2 align="center"><a href="https://unxw.github.io">My Website!!</a></h2>
 <p>you can find the repo for it somewhere in my repos (im lazy sry)</p>
 
