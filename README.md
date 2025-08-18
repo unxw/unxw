@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/soootuff.png" width="600" height="300" /></p>
 <p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="150" height="150" /></p>
-<h3 align="center">a very bored person</h3>
+<h3 align="center">professional skid and also loser</h3>
 <strong><p align="center">@nixora on discord</p></strong>
 <strong><p align="center">nixora@nixora.space</p></strong>
 <h2 align="center"><a href="https://unxw.github.io">My Website!!</a></h2>
