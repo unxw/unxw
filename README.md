@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/sootuff.png" width="600" height="300" /></p>
+<p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/soootuff.png" width="600" height="300" /></p>
 <p align="center"><img src="https://github.com/unxw/unxw/blob/main/img/cat.gif" width="150" height="150" /></p>
 <h3 align="center">a very bored person</h3>
 <strong><p align="center">@nixora on discord</p></strong>
